@@ -28,6 +28,9 @@ This project explores how behavioral patterns such as study time, sleep habits, 
 
 ### 3. K-Means Clustering
 - Performed K-Means clustering (k=5) to classify students into behavioral performance groups.
+
+  ![Dashboard Overview](k-means_results.png)
+
 - Assigned human-readable labels: **"Excellent"**, **"Good"**, **"Average"**, **"Low"**, **"Poor"**
 
 ### 4. Tableau Visualizations
@@ -55,10 +58,6 @@ This project demonstrates my ability to:
 
 ---
 
-## Interactive Dashboard (Optional)
-> [View on Tableau Public](#)
-
----
 
 ## Screenshots
 
