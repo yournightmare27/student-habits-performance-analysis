@@ -59,3 +59,18 @@ This project demonstrates my ability to:
 > [View on Tableau Public](#)
 
 ---
+
+## Screenshots
+
+### 📊 Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+### 🔍 Study Hours vs Exam Score (Clustered)
+![Scatter Plot](images/study_vs_exam.png)
+
+### 💬 Mental Health vs Academic Performance
+![Bubble Plot](images/mental_health_bubble.png)
+
+### 📉 Screen Time vs Sleep
+![Trend Chart](images/screen_time_vs_sleep.png)
+
