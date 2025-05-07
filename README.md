@@ -63,14 +63,11 @@ This project demonstrates my ability to:
 ## Screenshots
 
 ### 📊 Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Images/How_Mental_Health_Relates_to_Study_Habits_and_Academic_Success.jpg)
 
 ### 🔍 Study Hours vs Exam Score (Clustered)
-![Scatter Plot](images/study_vs_exam.png)
+![Scatter Plot](Images/How_Study_Time_Influences_Exam_Scores_Across_Student_Clusters.jpg)
 
 ### 💬 Mental Health vs Academic Performance
-![Bubble Plot](images/mental_health_bubble.png)
-
-### 📉 Screen Time vs Sleep
-![Trend Chart](images/screen_time_vs_sleep.png)
+![Bubble Plot](Images/Study_Time_vs._Academic_Performance.jpg)
 
